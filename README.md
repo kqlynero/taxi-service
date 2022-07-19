@@ -2,12 +2,12 @@
 ![image](https://user-images.githubusercontent.com/83237769/179720964-77c19113-635a-4b06-80d4-b89fdfa225fa.png)
 
 ## 👨‍💻General description
-This is simple web-application that supports authentication, registration and other CRUD operations. Taxi service has 3-layer design:
+This is a simple web application that supports authentication, registration, and other CRUD operations. Taxi service has 3-layer design:
 * Controllers
 * Service
 * DAO
 
-Also, when we run this application, we must do authentication (or registration). This will allow us use all functions of this app.
+Also, when we run this application, we must do authentication (or registration). This will allow us to use all functions of this app.
 
 ## 💻Used technogologies
 
@@ -32,10 +32,10 @@ Also, when we run this application, we must do authentication (or registration).
 
 ## How run this project
 
-* Download and install MySQL, Apache TomCat, Maven, JDK 11+
-* Clone project from repository
-* Add DB to project(copy all from init_db.sql) and configurate TomCat
-* Create connection to your DB
+* Download and install MySQL, Apache Tomcat, Maven, JDK 11+
+* Clone project from the repository
+* Add DB to project(copy all from init_db.sql) and configure TomCat
+* Create a connection to your DB
 * Run application with TomCat
 
 ## Database structure
